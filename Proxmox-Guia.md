@@ -8,29 +8,31 @@
 ## Pasos
 1. Primeros pasos de instalación
 
-![Instalación](1.png)
+![Instalación](/img/1.png)
+
 Nosotros usaremos la opción **Install Proxmox VE (Graphical)**
 
 2. A continuación tendremos que aceptar el EULA
-![EULA](2.png)
+![EULA](/img/2.png)
 
 3. Una vez aceptado el EULA tendremos que elegir nuestro disco duro donde queramos instalar Proxmox
 
 > [!WARNING]
 > Evidentemente todo el contenido del disco será borrado
 
-![Disco](3.png)
+![Disco](/img/3.png)
 
 4. Una vez elijamos el disco tendremos que elegir el país
-![País](4.png)
+![País](/img/4.png)
 
 5. Nos pedirán una contraseña y un email
-![Pass](5.png)
+![Pass](/img/5.png)
 
 6. Una vez elegida la contraseña tendremos que ajustar tanto las IP como el hostname
-![IP](6.png)
+![IP](/img/6.png)
+
 > [!IMPORTANT]
 > Esta guía ha sido replicada en una máquina virtual
 
 7. Estos son todos los valores que hemos elegido
-![fin](7.png)
+![fin](/img/7.png)
